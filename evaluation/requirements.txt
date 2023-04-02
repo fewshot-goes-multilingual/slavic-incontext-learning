@@ -1,0 +1,9 @@
+transformers==4.18.0
+protobuf == 3.20.2
+git+https://github.com/fewshot-goes-multilingual/promptsource.git
+datasets>=2.9.0
+spacy==3.3.1
+pandas==1.4.3
+adaptor[generative]==0.2.0
+fairseq==0.12.2
+transliterate==1.10.2

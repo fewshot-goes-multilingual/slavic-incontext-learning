@@ -1,0 +1,4 @@
+adaptor[generative]==0.2.0
+torch==1.13.0
+pandas==1.4.3
+nltk==3.8.1
