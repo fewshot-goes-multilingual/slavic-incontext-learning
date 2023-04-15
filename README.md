@@ -5,7 +5,7 @@ This repository contains resources for in-context learning in Slavic languages,
 together with training scripts for creating simple in-context few-shot learners specialized to an arbitrary target language.
 
 This is a supplementary material to an article [Resources and Few-shot Learners
-for In-context Learning in Slavic Languages](TODO) presented on EACL SlavNLP 2023.
+for In-context Learning in Slavic Languages](https://arxiv.org/abs/2304.01922) presented on EACL SlavNLP 2023.
 For more details, take a look into the referenced paper.
 
 ### Overview
@@ -93,7 +93,7 @@ Soon we plan to merge the newly-crafted templates to the upstream Promptsource r
 
 The best-performing in-context learners that we newly create can be found among our [HuggingFace models](https://huggingface.co/fewshot-goes-multilingual).
 See the models cards ([Czech model card](https://huggingface.co/fewshot-goes-multilingual/mTk-SQuAD_en-SQAD_cs-1B) & [Russian model card](https://huggingface.co/fewshot-goes-multilingual/mTk-AdversarialQA_en-SberQuAD_ru-1B)) for the specifics of the prompting format, and
-[corresponding paper](TODO) for performance evaluation.
+[corresponding paper](https://arxiv.org/abs/2304.01922) for performance evaluation.
 
 The models can be loaded and prompted as follows:
 ```bash
@@ -143,7 +143,7 @@ If you use our models or resources in your research, please cite this work as fo
   booktitle = {Proceedings of the 9th Workshop on Slavic Natural Language Processing},
   publisher = {ACL},
   numpages = {9},
-  url = {TO BE FILLED},
+  url = {https://arxiv.org/abs/2304.01922},
 }
 ```
 
